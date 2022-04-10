@@ -15,8 +15,6 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://rajkumar.coffee)**
-
 - 📫 How to reach me **rajkumarcoolx@gmail.com**
 
 ## 📊 My Github Stats
