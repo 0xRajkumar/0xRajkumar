@@ -7,9 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Building Stability protocol](https://github.com/stabilitydao)**
-
-- 🌱 I’m currently learning **Blockchain.**
+- 🌱 I’m currently interested in **WEB3.0 projects.**
 
 - 🥅 2022 GoaLs: **Contributing everyday.**
 
