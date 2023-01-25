@@ -1,18 +1,9 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rajkumar</h1>
-
-## Views and Followers
-
-![visitors](https://visitor-badge.deta.dev/badge?page_id=0xRajkumar/0xRajkumar)
-<a href="https://github.com/0xRajkumar?tab=followers"><img src="https://img.shields.io/github/followers/0xRajkumar?label=Followers&style=social" alt="GitHub Badge"></a>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rajkumar</h1>
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently interested in **WEB3.0 projects.**
-
-- 🥅 2022 GoaLs: **Contributing everyday.**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
+- 🌱 I’m currently interested in **Smart contract security**
+- 
 - 📫 How to reach me **rajkumarcoolx@gmail.com**
 
 ## 📊 My Github Stats
