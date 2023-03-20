@@ -1,5 +1,5 @@
 <h1 align="left">
-  Hi there 👋 I'm Raj.
+  Hi there 👋 I'm Raj
 </h1>
 
 I am searching for jobs in smart contract development and security. Right now, I am finding bugs on code4rena and immunefi.
@@ -30,7 +30,7 @@ I am searching for jobs in smart contract development and security. Right now, I
 [language widget]: https://github-readme-stats.vercel.app/api/top-langs/?username=0xRajkumar&langs_count=6&hide=css,html,less&line_height=25&title_color=C9D1D9&text_color=c9cacc&icon_color=04AFD3&bg_color=121820&count_private=true&hide_border=true&layout=compact&card_width=265
 [activity graph]: https://activity-graph.herokuapp.com/graph?username=0xRajkumar&bg_color=0D1117&title_color=C9D1D9&color=c9cacc&line=04AFD3&point=04AFD3&hide_border=true&custom_title=Rajkumar's%20Contribution%20Graph
 
-## 📬 Reach me
+## 📬 Reach out
 
 [![twitter badge]](https://twitter.com/0xRajkumar)
 
