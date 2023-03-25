@@ -14,7 +14,7 @@ I am searching for jobs in smart contract development and security. Right now, I
 - [uniswapV2](https://github.com/0xRajkumar/uniswapV2): It's clone of Uniswap v2, i made it while learning about dex and flashloans.
 - [lendnow](https://github.com/0xRajkumar/lendnow): Aave and compound like lending and borrowing protocol.
 - [NFT-Marketplace ](https://github.com/0xRajkumar/NFT-Marketplace): NFT marketplace to trade NFT's with ERC2981 royalties.
-- [NFTMarketplace-ui](https://github.com/0xRajkumar/NFTMarketplace-ui): UI for marketplace using Nextjs, Tailwind, etherjs and rainbowkit.
+- [NFTMarketplace-ui](https://github.com/0xRajkumar/Marketplace-ui): UI for marketplace using Nextjs, Tailwind, etherjs and rainbowkit.
 - [Auto-withdraw-bot](https://github.com/0xRajkumar/auto-withdraw-bot): It can be used to auto withdraw all your funds from EOA(externally owned accounts) and it's using Etherjs.
 - [Cryptobite](https://github.com/0xRajkumar/Cryptobite): You can see crypto prices and you can add them to watch list. It's using Nextjs, Reduxjs , chart.js and Tailwind.
 - [...](https://github.com/0xRajkumar?tab=repositories)
