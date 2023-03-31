@@ -6,6 +6,7 @@ I am searching for jobs in smart contract development and security. Right now, I
 
 ## Projects i've built.
 
+- [Audits](https://github.com/0xRajkumar/audits): This repository represents my collection of bug hunting findings for my portfolio.
 - [RSA](https://github.com/0xRajkumar/RSA): A RUST CLI to generate private and public keys, encrypt and decrypt message.
 - [ERC20-In-Yul ](https://github.com/0xRajkumar/ERC20-In-Yul): Simple ERC20 written in inline YUL.
 - [zkSortedArray](https://github.com/0xRajkumar/zkSortedArray): My first circuit to check if array is sorted by using Circom and Snarkjs.
