@@ -7,8 +7,10 @@ I am searching for jobs in smart contract development and security. Right now, I
 ## Projects i've built.
 
 - [Audits](https://github.com/0xRajkumar/audits): This repository represents my collection of bug hunting findings for my portfolio.
+- [REVM](https://github.com/0xRajkumar/revm): Implementation of the Ethereum Virtual Machine in Rust.
 - [RSA](https://github.com/0xRajkumar/RSA): A RUST CLI to generate private and public keys, encrypt and decrypt message.
 - [ERC20-In-Yul ](https://github.com/0xRajkumar/ERC20-In-Yul): Simple ERC20 written in inline YUL.
+- [cryptography-notes](https://github.com/0xRajkumar/cryptography-notes): My cryptography notes.
 - [zkSortedArray](https://github.com/0xRajkumar/zkSortedArray): My first circuit to check if array is sorted by using Circom and Snarkjs.
 - [DefiVuln](https://github.com/0xRajkumar/DefiVuln): This repository contains defi vulnerabilities using foundry.
 - [REI](https://github.com/0xRajkumar/rei): REI can be used to fractionalise and trade real estate NFT's. It's using TheGraph, IPFS, Ethers and Wagmi, Nextjs, hardhat and Solidity. 
